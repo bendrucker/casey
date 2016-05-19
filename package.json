@@ -1,7 +1,7 @@
 {
   "name": "casey",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Declare a ruleset and return values based on the first match",
   "license": "MIT",
   "repository": "bendrucker/casey",
