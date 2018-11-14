@@ -1,4 +1,4 @@
-# casey [![Build Status](https://travis-ci.org/bendrucker/casey.svg?branch=master)](https://travis-ci.org/bendrucker/casey)
+# casey [![Build Status](https://travis-ci.org/bendrucker/casey.svg?branch=master)](https://travis-ci.org/bendrucker/casey) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/casey.svg)](https://greenkeeper.io/)
 
 > Declare a ruleset and return values based on the first match
 
